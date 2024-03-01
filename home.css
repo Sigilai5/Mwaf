@@ -252,7 +252,8 @@
     display:block;
     }
     .main table td section{
-    margin-top:20%;
+    margin-top:40%;
+    
     }
     .main table td img{
     width:60%;
@@ -519,6 +520,7 @@
             }
             .title{
             font-size:1.3em;
+                        
             }
             .sub-title{
             font-size:0.6em;
